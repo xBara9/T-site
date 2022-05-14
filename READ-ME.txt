@@ -1,0 +1,5 @@
+The first page is at loginpage file
+
+To access the control panel use this account:
+Username: admin
+Password: admin

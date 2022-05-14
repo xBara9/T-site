@@ -1,0 +1,60 @@
+body {
+  color: Black;
+  background-color: #a9a9a9;
+  text-align: center;
+}
+header {
+  color: Black;
+  height: 150px;
+}
+.Timer {
+  position: fixed;
+  top: 0;
+  right: 0;
+  border: 3px solid black;
+  margin-right: 19%;
+  width: 175px;
+  height: 75px;
+  background-color: white;
+  z-index: 100;
+}
+section {
+  background-color: white;
+  width: 800px;
+  height: 150px;
+  position: relative;
+  left: 50%;
+  transform: translate(-50%);
+  margin-top: 10px;
+}
+.Answer1 {
+  position: absolute;
+  display: inline-block;
+  left: 20%;
+}
+.Answer2 {
+  position: absolute;
+  display: inline-block;
+  left: 75%;
+}
+.Answer3 {
+  position: absolute;
+  display: inline-block;
+  top: 50%;
+  left: 20%;
+}
+.Answer4 {
+  position: absolute;
+  display: inline-block;
+  left: 75%;
+  top: 50%;
+}
+.submit {
+  height: 25px;
+}
+a {
+  color: black;
+}
+.Question {
+  font-size: 20px;
+}

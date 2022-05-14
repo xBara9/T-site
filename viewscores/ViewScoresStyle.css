@@ -1,0 +1,26 @@
+body {
+  color: Black;
+  background-color: #a9a9a9;
+  text-align: center;
+}
+section {
+  width: 100%;
+  padding: 50px 0;
+  text-align: center;
+  background-color: white;
+  margin-top: 20px;
+}
+a {
+  color: black;
+}
+table,
+th,
+td {
+  border: 1px solid;
+}
+table {
+  width: 350px;
+  position: relative;
+  left: 50%;
+  transform: translate(-50%);
+}
